@@ -1,4 +1,4 @@
-# Hi there, I'm E2Funny14 👋
+# Hi there, I'm Eian Jennings 👋
 
 Welcome to my GitHub profile! I’m passionate about coding, learning new technologies, and building projects that make a difference. Here you’ll find a showcase of my skills, interests, and current projects.
 
